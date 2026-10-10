@@ -1,7 +1,7 @@
 # edgeworth-competitor-research
 Python-based competitor research and web scraping automation for trading and investment platforms.
 
- # Project Overview
+ ## Project Overview
 This project involved conducting competitor research for EDGEWORTH, focusing on trading platforms, copy-trading services, and investment companies operating across different markets.
 
 The main objective was to identify relevant competitors, investigate their services and business models, and automate the collection of publicly available information to make competitor analysis more efficient and structured.
